@@ -1,39 +1,45 @@
-# ICS4U
-Sample code for ICS4U
-Organized by Chapters in C++ for You++
+***
+# **ICS4U**
+### Sample code for ICS4U
+***
+##### *Organized by Chapters in C++ for You++*
 
-Chapter 2. A First Look at a C++ Program     
+###### Chapter 2: *A First Look at a C++ Program*   
 
-Chapter 3. Variables and Constants 
+###### Chapter 3. *Variables and Constants*
 
-Chapter 4. Arithmetic Expressions 
+###### Chapter 4. *Arithmetic Expressions* 
 
-Chapter 5. Arrays, apvector and apmatrix Classes 
+###### Chapter 5. *Arrays, apvector and apmatrix Classes* 
 
-Chapter 6. Logical Expressions 
+###### Chapter 6. *Logical Expressions* 
 
-Chapter 7. Iterative Statements
+###### Chapter 7. *Iterative Statements*
 
-Chapter 8. The switch Statement 
+###### Chapter 8. *The switch Statement* 
 
-Chapter 9. Algorithms     Chapter 10. Monte Carlo Methods 
+###### Chapter 9. *Algorithms*
 
-Chapter 11. Pointers, References, Dynamic Memory Allocation 
+###### Chapter 10. *Monte Carlo Methods* 
 
-Chapter 12. Strings 
+###### Chapter 11. *Pointers, References, Dynamic Memory Allocation* 
 
-Chapter 13. Structures 
+###### Chapter 12. *Strings* 
 
-Chapter 14. Modularity     Chapter 15. Classes 
+###### Chapter 13. *Structures* 
 
-Chapter 17. Linked Lists 
+###### Chapter 14. *Modularity*
 
-Chapter 18. Stacks 
+###### Chapter 15. *Classes* 
 
-Chapter 19. Recursion 
+###### Chapter 17. *Linked Lists* 
 
-Chapter 27. Sorting 
+###### Chapter 18. *Stacks* 
 
-Chapter 28. Inheritance 
+###### Chapter 19. *Recursion* 
+
+###### Chapter 27. *Sorting* 
+
+###### Chapter 28. *Inheritance* 
 
 
