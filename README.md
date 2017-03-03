@@ -1,8 +1,7 @@
-***
 # **ICS4U**
 ### Sample code for ICS4U
-***
-##### *Organized by Chapters in C++ for You++*
+___
+###### Organized by Chapters in C++ for You++
 
 ###### Chapter 2: *A First Look at a C++ Program*   
 
